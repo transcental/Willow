@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "aiohttp>=3.14.3",
+    "aiohttp>=3.14.4",
     "apscheduler>=3.11.3",
     "piccolo[all]>=1.36.0",
     "pydantic-settings>=2.14.2",
